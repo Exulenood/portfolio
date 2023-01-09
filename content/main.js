@@ -23,7 +23,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Wouldn`t you like to know, huh? \n',
+    text: 'Wouldn`t you like to know, huh? - Nah, this is just a training-portfolio to get used to git,Vim,yarn \n',
   },
   features: [
     {
